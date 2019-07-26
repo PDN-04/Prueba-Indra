@@ -1,0 +1,29 @@
+{
+  "productos":
+  [
+    {
+      "nombre": "Cepillo de Dientes",
+      "codigo": "PR001",
+      "precio": 2.95,
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas iaculis malesuada arcu sed viverra. Pellentesque ut feugiat eros."
+    },
+    {
+      "nombre": "Altavoces Bluetooth",
+      "codigo": "PR002",
+      "precio": 49.55,
+      "descripcion": "Suspendisse a enim vel libero aliquet vestibulum. Morbi venenatis quis felis quis ullamcorper. Nulla ut mollis nisl."
+    },
+    {
+      "nombre": "Mueblebar Rústico",
+      "codigo": "PR003",
+      "precio": 180.00,
+      "descripcion": "Curabitur at laoreet sem. Curabitur maximus ante consectetur, bibendum enim sed, consequat turpis."
+    },
+    {
+      "nombre": "Lámpara de Araña",
+      "codigo": "PR004",
+      "precio": 345.00,
+      "descripcion": "Cras sem mauris, tristique mollis erat sagittis, blandit suscipit mi. Curabitur ac elit condimentum, mollis ante eu, pharetra libero."
+    }
+  ]
+}

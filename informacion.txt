@@ -1,0 +1,10 @@
+Este programa ha sido realizado con el Framework de PHP llamado CodeIgniter que permite mejorar la forma de trabajar y hacerlo a mayor velocidad en programas MVC (al menos por experiencia propia).
+
+Les detallo más o menos el tiempo que me ha llevado hacer la prueba:
+
+- Instalación y configuración de CodeIgniter: 1 hora
+- Parte de los productos: 2 horas
+- Parte de los clientes: 3 horas y media
+- Otras funciones extra (como por ejemplo el poder reiniciar la aplicación), responsive simple, etc: 2 horas.
+
+TOTAL: 8 horas y media

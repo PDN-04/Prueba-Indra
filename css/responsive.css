@@ -1,0 +1,195 @@
+@media (max-width: 1023px)
+{
+	.cabecera {
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+
+	.principal {
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+
+	.principal .izquierda {
+		padding: 50px;
+	}
+
+	.principal .derecha {
+		padding: 50px;
+	}
+
+	.reiniciar {
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+
+	.vacio {
+		margin-left: 5%;
+		margin-right: 5%;
+		padding: 50px;
+	}
+
+	.filtros {
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+
+	.filtros .buscador .campo {
+		width: 200px;
+	}
+
+	.listado {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+
+	.formulario {
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+
+	.relacionados {
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+}
+
+@media (max-width: 767px)
+{
+	body {
+		padding: 50px 0;
+	}
+
+	.cabecera {
+		padding: 25px;
+	}
+
+	.cabecera span {
+		font-size: 2.5em;
+	}
+
+	.principal:before {
+		top: 50%;
+		bottom: auto;
+		left: 25px;
+		right: 25px;
+		width: auto;
+		height: 1px;
+		-webkit-transform: translate(0, -50%);
+		-moz-transform: translate(0, -50%);
+		-o-transform: translate(0, -50%);
+		-ms-transform: translate(0, -50%);
+		transform: translate(0, -50%);
+	}
+
+	.principal .icono {
+		width: 100px;
+		height: 100px;
+		background-size: contain;
+	}
+
+	.principal .izquierda {
+		display: block;
+		width: 100%;
+		padding: 25px;
+	}
+
+	.principal .derecha {
+		display: block;
+		width: 100%;
+		padding: 25px;
+	}
+
+	.reiniciar {
+		padding: 25px;
+	}
+
+	.reiniciar a {
+		display: block;
+	}
+
+	.vacio {
+		padding: 25px;
+	}
+
+	.vacio .botones a {
+		display: block;
+		margin-bottom: 10px;
+		margin-right: 0;
+	}
+
+	.vacio .botones a:last-child {
+		margin-bottom: 0;
+	}
+
+	.filtros {
+		padding: 25px;
+	}
+
+	.filtros .buscador {
+		float: none;
+	}
+
+	.filtros .buscador .campo {
+		width: 100%;
+	}
+
+	.filtros .buscador .campo input[type=text] {
+		text-align: center;
+	}
+
+	.filtros .buscador a {
+		display: block;
+		margin-top: 10px;
+		margin-left: 0;
+		text-align: center;
+	}
+
+	.filtros .botones {
+		float: none;
+	}
+
+	.filtros .botones a {
+		display: block;
+		margin-top: 25px;
+		margin-right: 0;
+		text-align: center;
+	}
+
+	.formulario {
+		padding: 25px;
+	}
+
+	.formulario .campo {
+		display: block;
+		width: 100%;
+		margin-right: 0;
+	}
+
+	.formulario .campo:nth-of-type(2) {
+		margin-top: 20px;
+	}
+
+	.formulario .botones a {
+		display: block;
+		margin-bottom: 10px;
+		margin-right: 0;
+	}
+
+	.formulario .botones a:last-child {
+		margin-bottom: 0;
+	}
+
+	.fondo_error .error {
+		left: 5%;
+		right: 5%;
+		padding: 25px;
+	}
+
+	.scroll table {
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+	}
+}
